@@ -1,1 +1,2 @@
 # gitmerge_test
+test
